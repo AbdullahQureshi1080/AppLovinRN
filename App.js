@@ -14,8 +14,7 @@ var adLoadState = {
 
 const App = () => {
   // Create constants
-  const SDK_KEY =
-    'VL5x2B9yvawZDQ8XrwA4_h4dZQmWm3Po-8zsL09uXbtdW6JmV4GgZEdOuITKrOPzRRkq-LsaR9fVbdNLIw4Qav';
+  const SDK_KEY = 'SDK KEY HERE';
 
   const INTERSTITIAL_AD_UNIT_ID = Platform.select({
     ios: 'ENTER_IOS_INTERSTITIAL_AD_UNIT_ID_HERE',
